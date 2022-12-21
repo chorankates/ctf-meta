@@ -34,6 +34,6 @@ individual repos for CTF/HTB writeups
 | [Ambassador](https://github.com/chorankates/Ambassador) | :heavy_check_mark: | 2022/12/20 @ 15:28 |
 | [Photobomb](https://github.com/chorankates/Photobomb) | :heavy_check_mark: | 2022/11/13 @ 11:29 |
 | [MetaTwo](https://github.com/chorankates/MetaTwo) |  | 2022/11/18 @ 16:03 |
-| [Precious](https://github.com/chorankates/Precious) | :heavy_check_mark | 2022/12/21 @ 09:52 |
+| [Precious](https://github.com/chorankates/Precious) | :heavy_check_mark: | 2022/12/21 @ 09:52 |
 | [Soccer](https://github.com/chorankates/Soccer) |  | 2022/12/19 @ 13:43 |
 
