@@ -22,7 +22,7 @@ individual repos for CTF/HTB writeups
 | [Teacher](https://github.com/chorankates/Teacher) | :heavy_check_mark: | 2022/08/11 @ 15:23 |
 | [Safe](https://github.com/chorankates/Safe) |  | 2022/08/11 @ 15:38 |
 | [Retired](https://github.com/chorankates/Retired) |  | 2022/08/14 @ 15:57 |
-| [Sneaky](https://github.com/chorankates/Sneaky) |  | 2022/08/14 @ 16:26 |
+| [Sneaky](https://github.com/chorankates/Sneaky) | :heavy_check_mark:  | 2022/12/26 @ 07:55 |
 | [Health](https://github.com/chorankates/Health) |  | 2022/08/27 @ 16:09 |
 | [Haircut](https://github.com/chorankates/Haircut) | :heavy_check_mark: | 2022/08/22 @ 15:40 |
 | [October](https://github.com/chorankates/October) |  | 2022/08/23 @ 08:37 |
