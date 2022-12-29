@@ -37,4 +37,6 @@ individual repos for CTF/HTB writeups
 | [Precious](https://github.com/chorankates/Precious) | :heavy_check_mark: | 2022/12/21 @ 09:52 |
 | [Soccer](https://github.com/chorankates/Soccer) |  | 2022/12/19 @ 13:43 |
 | [Squashed](https://github.com/chorankates/Squashed) | :heavy_check_mark: | 2022/12/26 @ 10:56 |
+| [Networked](https://github.com/chorankates/Networked) | | 2022/12/29 @ 12:49 |
+| [UpDown](https://github.com/chorankates/UpDown) | | 2022/12/29 @ 10:56 |
 
