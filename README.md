@@ -18,7 +18,7 @@ individual repos for CTF/HTB writeups
 | [Nibbles](https://github.com/chorankates/Nibbles) | :heavy_check_mark: | 2023/01/07 @ 08:53 |
 | [Frolic](https://github.com/chorankates/Frolic) |  | 2022/08/08 @ 16:53 |
 | [OpenAdmin](https://github.com/chorankates/OpenAdmin) | :heavy_check_mark: | 2022/08/08 @ 18:29 |
-| [Help](https://github.com/chorankates/Help) |  | 2022/08/14 @ 13:58 |
+| [Help](https://github.com/chorankates/Help) | :heavy_check_mark: | 2023/01/07 @ 16:15 |
 | [Teacher](https://github.com/chorankates/Teacher) | :heavy_check_mark: | 2022/08/11 @ 15:23 |
 | [Safe](https://github.com/chorankates/Safe) |  | 2022/08/11 @ 15:38 |
 | [Retired](https://github.com/chorankates/Retired) |  | 2022/08/14 @ 15:57 |
