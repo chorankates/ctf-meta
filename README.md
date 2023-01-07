@@ -15,7 +15,7 @@ individual repos for CTF/HTB writeups
 | [Irked](https://github.com/chorankates/Irked) | :heavy_check_mark: | 2022/07/26 @ 15:54 |
 | [Valentine](https://github.com/chorankates/Valentine) | :heavy_check_mark: | 2022/07/27 @ 16:31 |
 | [Mirai](https://github.com/chorankates/Mirai) | :heavy_check_mark: | 2022/07/29 @ 17:00 |
-| [Nibbles](https://github.com/chorankates/Nibbles) |  | 2022/08/01 @ 07:53 |
+| [Nibbles](https://github.com/chorankates/Nibbles) | :heavy_check_mark: | 2023/01/07 @ 08:53 |
 | [Frolic](https://github.com/chorankates/Frolic) |  | 2022/08/08 @ 16:53 |
 | [OpenAdmin](https://github.com/chorankates/OpenAdmin) | :heavy_check_mark: | 2022/08/08 @ 18:29 |
 | [Help](https://github.com/chorankates/Help) |  | 2022/08/14 @ 13:58 |
