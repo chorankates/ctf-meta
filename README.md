@@ -39,4 +39,6 @@ individual repos for CTF/HTB writeups
 | [Squashed](https://github.com/chorankates/Squashed) | :heavy_check_mark: | 2022/12/26 @ 10:56 |
 | [Networked](https://github.com/chorankates/Networked) | | 2022/12/29 @ 12:49 |
 | [UpDown](https://github.com/chorankates/UpDown) | | 2022/12/29 @ 10:56 |
+| [Mentor](https://github.com/chorankates/Mentor) | | 2023/01/02 @ 15:15 |
+| [BroScience](https://github.com/chorankates/BroScience) | :heavy_check_mark: | 2023/01/11 @ 13:48 |
 
