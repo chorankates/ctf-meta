@@ -41,4 +41,10 @@ individual repos for CTF/HTB writeups
 | [UpDown](https://github.com/chorankates/UpDown) | | 2022/12/29 @ 10:56 |
 | [Mentor](https://github.com/chorankates/Mentor) | | 2023/01/02 @ 15:15 |
 | [BroScience](https://github.com/chorankates/BroScience) | :heavy_check_mark: | 2023/01/11 @ 13:48 |
+| [Forgot](https://github.com/chorankates/Forgot) | | 2023/01/11 @ 14:42 |
+| [Stocker](https://github.com/chorankates/Stocker) | | 2023/01/15 @ 13:34 |
+| [Awkward](https://github.com/chorankates/Awkward) | | 2023/01/25 @ 18:31 |
+| [Investigation](https://github.com/chorankates/Investigation) | :heavy_check_mark: | 2023/01/27 @ 20:25 |
+
+
 
