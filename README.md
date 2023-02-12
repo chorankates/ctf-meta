@@ -7,7 +7,7 @@ individual repos for CTF/HTB writeups
 | name | completed? | last modified |
 |------|------------|---------------|
 | [Curling](https://github.com/chorankates/Curling) | :heavy_check_mark: | 2022/07/08 @ 14:50 |
-| [LaCasaDePapel](https://github.com/chorankates/LaCasaDePapel) |  | 2022/09/17 @ 13:12 |
+| [LaCasaDePapel](https://github.com/chorankates/LaCasaDePapel) | :heavy_check_mark: | 2023/02/12 @ 14:13 |
 | [RedPanda](https://github.com/chorankates/RedPanda) | :heavy_check_mark: | 2022/07/20 @ 18:41 |
 | [Traverxec](https://github.com/chorankates/Traverxec) | :heavy_check_mark: | 2022/07/22 @ 17:00 |
 | [Blunder](https://github.com/chorankates/Blunder) | :heavy_check_mark: | 2022/07/23 @ 14:50 |
