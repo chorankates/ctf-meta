@@ -45,6 +45,9 @@ individual repos for CTF/HTB writeups
 | [Stocker](https://github.com/chorankates/Stocker) | | 2023/01/15 @ 13:34 |
 | [Awkward](https://github.com/chorankates/Awkward) | | 2023/01/25 @ 18:31 |
 | [Investigation](https://github.com/chorankates/Investigation) | :heavy_check_mark: | 2023/01/27 @ 20:25 |
+| [Encoding](https://github.com/chorankates/Encoding) | | 2023/02/17 @ 15:22 |
+| [Interface](https://github.com/chorankates/Interface) | | 2023/02/12 @ 15:42 |
+| [Bagel](https://github.com/chorankates/Bagel) | | 2023/02/18 @ 16:%7 |
 
 
 
