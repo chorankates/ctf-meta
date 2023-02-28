@@ -35,7 +35,7 @@ individual repos for CTF/HTB writeups
 | [Photobomb](https://github.com/chorankates/Photobomb) | :heavy_check_mark: | 2022/11/13 @ 11:29 |
 | [MetaTwo](https://github.com/chorankates/MetaTwo) | :heavy_check_mark: | 2023/02/01 @ 18:50 |
 | [Precious](https://github.com/chorankates/Precious) | :heavy_check_mark: | 2022/12/21 @ 09:52 |
-| [Soccer](https://github.com/chorankates/Soccer) |  | 2022/12/19 @ 13:43 |
+| [Soccer](https://github.com/chorankates/Soccer) | :heavy_check_mark: | 2023/02/28 @ 09:06 |
 | [Squashed](https://github.com/chorankates/Squashed) | :heavy_check_mark: | 2022/12/26 @ 10:56 |
 | [Networked](https://github.com/chorankates/Networked) | | 2022/12/29 @ 12:49 |
 | [UpDown](https://github.com/chorankates/UpDown) | | 2022/12/29 @ 10:56 |
