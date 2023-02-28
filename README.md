@@ -16,16 +16,16 @@ individual repos for CTF/HTB writeups
 | [Valentine](https://github.com/chorankates/Valentine) | :heavy_check_mark: | 2022/07/27 @ 16:31 |
 | [Mirai](https://github.com/chorankates/Mirai) | :heavy_check_mark: | 2022/07/29 @ 17:00 |
 | [Nibbles](https://github.com/chorankates/Nibbles) | :heavy_check_mark: | 2023/01/07 @ 08:53 |
-| [Frolic](https://github.com/chorankates/Frolic) |  | 2022/08/08 @ 16:53 |
+| [Frolic](https://github.com/chorankates/Frolic) | :x: | 2022/08/08 @ 16:53 |
 | [OpenAdmin](https://github.com/chorankates/OpenAdmin) | :heavy_check_mark: | 2022/08/08 @ 18:29 |
 | [Help](https://github.com/chorankates/Help) | :heavy_check_mark: | 2023/01/07 @ 16:15 |
 | [Teacher](https://github.com/chorankates/Teacher) | :heavy_check_mark: | 2022/08/11 @ 15:23 |
-| [Safe](https://github.com/chorankates/Safe) |  | 2022/08/11 @ 15:38 |
-| [Retired](https://github.com/chorankates/Retired) |  | 2022/08/14 @ 15:57 |
+| [Safe](https://github.com/chorankates/Safe) | :x:  | 2022/08/11 @ 15:38 |
+| [Retired](https://github.com/chorankates/Retired) | :x: | 2022/08/14 @ 15:57 |
 | [Sneaky](https://github.com/chorankates/Sneaky) | :heavy_check_mark:  | 2022/12/26 @ 07:55 |
 | [Health](https://github.com/chorankates/Health) |  | 2022/08/27 @ 16:09 |
 | [Haircut](https://github.com/chorankates/Haircut) | :heavy_check_mark: | 2022/08/22 @ 15:40 |
-| [October](https://github.com/chorankates/October) |  | 2022/08/23 @ 08:37 |
+| [October](https://github.com/chorankates/October) | :x: | 2022/08/23 @ 08:37 |
 | [Shared](https://github.com/chorankates/Shared) | :heavy_check_mark:  | 2022/12/23 @ 11:48 |
 | [Admirer](https://github.com/chorankates/Admirer) | :heavy_check_mark: | 2022/09/04 @ 09:26 |
 | [FriendZone](https://github.com/chorankates/FriendZone) |  | 2022/09/05 @ 14:46 |
