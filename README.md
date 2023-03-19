@@ -28,7 +28,7 @@ individual repos for CTF/HTB writeups
 | [October](https://github.com/chorankates/October) | :x: | 2022/08/23 @ 08:37 |
 | [Shared](https://github.com/chorankates/Shared) | :heavy_check_mark:  | 2022/12/23 @ 11:48 |
 | [Admirer](https://github.com/chorankates/Admirer) | :heavy_check_mark: | 2022/09/04 @ 09:26 |
-| [FriendZone](https://github.com/chorankates/FriendZone) |  | 2022/09/05 @ 14:46 |
+| [FriendZone](https://github.com/chorankates/FriendZone) | :heavy_check_mark:  | 2023/03/18 @ 18:13 |
 | [Writeup](https://github.com/chorankates/Writeup) |  | 2022/09/17 @ 08:45 |
 | [Shoppy](https://github.com/chorankates/Shoppy) |  | 2022/11/25 @ 16:48 |
 | [Ambassador](https://github.com/chorankates/Ambassador) | :heavy_check_mark: | 2022/12/20 @ 15:28 |
