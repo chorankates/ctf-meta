@@ -47,7 +47,9 @@ individual repos for CTF/HTB writeups
 | [Investigation](https://github.com/chorankates/Investigation) | :heavy_check_mark: | 2023/01/27 @ 20:25 |
 | [Encoding](https://github.com/chorankates/Encoding) | | 2023/02/17 @ 15:22 |
 | [Interface](https://github.com/chorankates/Interface) | | 2023/02/12 @ 15:42 |
-| [Bagel](https://github.com/chorankates/Bagel) | | 2023/02/18 @ 16:%7 |
+| [Bagel](https://github.com/chorankates/Bagel) | | 2023/02/18 @ 16:57 |
+| [Inject](https://github.com/chorankates/Inject) | :heavy_check_mark: | 2023/03/25 @ 08:33 |
+
 
 
 
