@@ -8,27 +8,29 @@ require 'pry'
 # TODO don't require a static github user
 # TODO figure out pathing garbage, we actually want this at the top level
 
-HTB_MACHINES = "
-# ctf-meta
+
+HEADER = "# ctf-meta
 individual repos for CTF/HTB writeups
+"
+
+HTB_MACHINES = "
 
 ## HTB machines
 
 | name | completed? | last modified |
-|------|------------|---------------|
-<% for m in @machines.keys %>
+|------|------------|---------------| <% for m in @machines.keys %>
 | [<%= m %>](https://github.com/chorankates/<%= m %>) | <%= @machines[m][:completed] %> | <%= @machines[m][:modified] %> |<% end %>
-
 "
 
+# TODO ok this is crystallizing - don't distinguish between machines and ctfs when writing the index
 
 TEMPLATES = {
   :htb => HTB_MACHINES
 }
 
-def get_machines()
+def get_machines(path)
   machines = Hash.new
-  paths = Dir.glob('*').sort
+  paths = Dir.glob(sprintf('%s/*', path)).sort
   paths.each do |p|
     name = $1 if p.match(/\d+\-(\w*)/)
     next if name.nil? # relative paths - but TODO at least log this
@@ -43,6 +45,11 @@ def get_machines()
   machines
 end
 
+
+def get_ctfs()
+  binding.pry
+end
+
 def render_template(type)
   template = TEMPLATES[type]
   renderer = ERB.new(template)
@@ -51,16 +58,14 @@ def render_template(type)
 end
 
 def parse_options
-  # setting some defaults
   options = {
-    :mode       => :htb,
   }
 
   parser = OptionParser.new do |o|
 
-    o.on('-m', '--mode <mode>', "mode of execution, individual or overall") do |p|
-      options[:mode] = p.to_sym
-    end
+  #  o.on('-m', '--mode <mode>', "mode of execution, individual or overall") do |p|
+  #    options[:mode] = p.to_sym
+  #  end
 
   end
 
@@ -75,9 +80,12 @@ required = Array.new
 
 options = parse_options
 
-if options[:mode].eql?(:htb)
+#if options[:mode].eql?(:htb)
+if true
   required = [ :machines ]
-  @machines = get_machines()
+  options[:mode] = :htb # hack because of above
+  @machines = get_machines('htb/machines')
+  #@ctfs     = get_ctfs() # everything else top level
   options[:output] = './README.md.gen'
 
 else
